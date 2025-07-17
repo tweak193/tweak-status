@@ -1,1 +1,1 @@
-ZAPATA  # Hayda - admin
+ZAPATA:admin:permanent
